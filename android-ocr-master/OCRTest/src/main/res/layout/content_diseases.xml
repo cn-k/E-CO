@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:id="@+id/tool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+
+
+        >
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:local="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        local:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        local:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+        <Button
+            android:id="@+id/btnHomeDiseases"
+            android:layout_height="40dp"
+            android:layout_width="40dp"
+            android:background="@drawable/home"
+            android:layout_gravity="center"
+            />
+
+    </android.support.v7.widget.Toolbar>
+        </RelativeLayout>
+    <!-- Header aligned to top -->
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tool"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        >
+
+        <TextView
+            android:id="@+id/txtTitleDiseases"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Fixed Header"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            />
+
+    </RelativeLayout>
+
+    <!-- Content below header and above footer -->
+
+    <RelativeLayout
+         android:id="@+id/content"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_below="@id/header"
+         android:gravity="left" >
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ListView
+                android:id="@+id/listEcode"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.55"
+                >
+            </ListView>
+
+      </LinearLayout>
+        <!--    <TextView
+             android:id="@+id/txtContent"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Sebep Olan E-Kodlar:"
+             android:textColor="@android:color/holo_red_dark"
+             android:textSize="20sp" />
+
+   <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+
+       android:id="@+id/gridView1"
+       android:numColumns="auto_fit"
+       android:gravity="center"
+       android:columnWidth="50dp"
+       android:stretchMode="columnWidth"
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:layout_toEndOf="@+id/txtContent"
+       >
+
+   </GridView>-->
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

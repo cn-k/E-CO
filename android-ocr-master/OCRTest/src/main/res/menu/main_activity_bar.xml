@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:OCRTest_app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/language_en"
+        android:icon="@drawable/eng_language_icon"
+        OCRTest_app:showAsAction="always"
+        android:title="@string/action_en"
+        android:orderInCategory="2"
+        >
+    </item>
+    <item
+        android:id="@+id/language_tr"
+        android:icon="@drawable/turkey_flag"
+        OCRTest_app:showAsAction="always"
+        android:title="@string/action_tr"
+        android:orderInCategory="3"
+        >
+    </item>
+
+
+</menu>

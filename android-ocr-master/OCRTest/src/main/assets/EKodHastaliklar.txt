@@ -1,0 +1,181 @@
+﻿Tiroid tümörü--E102--tr
+Kromozom hasarı--E102,E110--tr
+Kurdeşen--E102,E110,E131,E160(b),E211--tr
+Hiperaktivite--E102,E110,E123,E142,E210,E250,E252,E320--tr
+Alerjik reaksiyon--E107,E120,E131, E132,E216,E218,E320,E553(b),E901,E903,E928--tr
+Rinit--E110,E180--tr
+Burun tıkanıklığı--E110--tr
+Alerji--E110,E413,E414,E421,E441,E951--tr
+Karın ağrısı--E110--tr
+Bulantı--E110,E132,E235,E264,E319,E421,E422,E622,E924--tr
+Kusma--E110,E132,E235,E264,E319,E421,E622,E924--tr
+Hazımsızlık--E110--tr
+ıştahsızlık--E110--tr
+Aspirin alerjisi--E122,E124,E155--tr 
+Aspirin hassasiyeti--E102,E129--tr
+Astım--E107,E122,E123,E124,E129,E142,E155,E180,E210,E211,E220,E441,E620,E621--tr
+Egzema--E123--tr
+Kanserojen--E123,E124,E153,E249,E250,E252,E320,E407,E925,E926,E954--tr
+Doğum kusurları--E123--tr
+Cenin ölümleri--E123--tr
+Işığa karşı duyarlılığa--E127--tr
+Hipertroidism--E127--tr
+Tiroid kanseri--E127--tr
+Kan hemoglobini ile karışma--E128--tr
+Kanser--E129,E950,E952--tr
+Kaşıntı--E131,E635--tr
+Tansiyon düşüklüğü--E131,E461--tr
+Titreme--E131--tr
+Solunum problemleri--E131,E132--tr
+Yüksek tansiyon--E132--tr
+Deri rahatsızlığı--E104,E155,E904,E180,E310--tr 
+Deri döküntüsü--E132--tr
+Deri kaşıntıları--E200,E235--tr
+Deri kızarıklıkları--E375--tr
+Deri yanığı--E1520--tr
+Uykusuzluğa--E142--tr
+Zehir--E170,E172,E407--tr
+Safra--E170--tr
+Hemoroid--E170--tr
+ Kabız--E170,E461--tr
+Fistül kanamaları--E170--tr
+Yüksek konsatrasyon--E171--tr
+Sinirsel bozukluğa--E210--tr
+Metabolizma zorlanması--E220--tr
+B1 vitamininin yok olması--E220--tr
+Nefes daralması--E249--tr
+Baş dönmesi--E249--tr
+Baş ağrısı--E249,E375,E422--tr
+Sindirim--E270,E400--tr
+Migren--E280,E281,E951,E952--tr
+Sayıklama--E319--tr
+Öldürücü--E319,E1520--tr
+Estrojen etki--E320--tr
+şeker hastalığı--E375--tr
+Gastrit--E310,E375--tr
+Karaciğer--E375,E510--tr
+Göz zararları--E375--tr
+Gut--E375,E626,E627,E629,E631,E633--tr
+Ürik asit--E375--tr
+Mide ağrısı--E375--tr
+Ülser--E407,E508--tr
+Diyare--E421,E622,E924,E235--tr
+Böbrek tümörü--E110--tr
+Böbrek taşı--E170,E967--tr
+Böbrek sorunu olan insanlar--E261--tr
+Böbrek yetmezliği--E421--tr
+Böbrek fonksiyon zararı--E510--tr 
+Susuzluk--E422--tr
+Yüksek kan şekeri--E422--tr
+Mide gazı--E440(a),E461--tr
+Bağırsak rahatsızlığı--E440(a)--tr
+Mukoza--E503--tr
+Su dengesi--E514--tr
+Mide kanseri--E553(b)--tr
+Plasenta problemleri--E554--tr
+Alzheimer--E554--tr
+Karın krampları--E622--tr
+Vitaminlerin emilimi--E905--tr
+Barsak kanseri--E905--tr
+Sancı--E924--tr
+Gıdaları tahrip--E925,E926--tr
+Testis ve embriyo--E952--tr
+Müshil--E965--tr
+ıdraryolu etkileri--E967--tr
+Psikolojik huzursuzluk--E967--tr
+Sinir sistemi depresyonu--E1520--tr
+Kalp krizi--E1520--tr
+Thyroid tumor--E102--en 
+Chromosome damage--E102,E110--en
+Hives--E102,E110,E131,E160(b),E211--en
+Hyperactivity--E102,E110,E123,E142,E210,E250,E252,E320--en
+Allergic reaction--E107,E120,E131, E132,E216,E218,E320,E553(b),E901,E903,E928--en
+Rhinitis--E110,E180--en
+Stuffiness--E110--en 
+Allergy--E110,E413,E414,E421,E441,E951--en
+Stomache--E110--en
+Nausea--E110,E132,E235,E264,E319,E421,E422,E622,E924--en
+Vomiting--E110,E132,E235,E264,E319,E421,E622,E924--en
+Indigestion--E110--en
+Anorexia--E110--en
+Aspirin-allergics--E122,E124,E155--en
+Aspirin sensitivity--E102,E129--en
+Asthma--E107,E122,E123,E124,E129,E142,E155,E180,E210,E211,E220,E441,E620,E621--en
+Eczema--E123--en
+Carcinogenic--E123,E124,E153,E249,E250,E252,E320,E407,E925,E926,E954--en
+Birth faults--E123--en
+Fetus deaths--E123--en
+Light sensitivity--E127--en
+Hyperthyroidism--E127--en
+Thyroid cancer--E127--en
+Mix with blood hemoglobin--E128--en
+Cancer--E129,E950,E952--en
+Itching--E131,E635--en
+Low blood pressure--E131,E461--en
+Shake--E131--en
+Breathing--E131,E132--en
+Hypertension--E132--en
+Skin damage--E104,E155,E904,E180,E310--en
+Exuviation--E132--en
+Itching at skin--E200,E235--en
+Skin erythema--E375--en
+Skin burns--E1520--en
+Insomnia--E142--en
+Poisoning--E170,E172,E407--en
+Bile--E170--en
+Hemorrhoids--E170--en
+ Constipation--E170,E461--en
+Fistula bleeding--E170--en
+High consantration--E171--en
+Neurological disorders--E210--en
+Metabolism problems--E220--en
+Lose of B1 vitamin--E220--en
+Shotness of breath--E249--en
+Dizziness--E249--en
+Headache--E249,E375,E422--en
+Digest--E270,E400--en
+Migraine--E280,E281,E951,E952--en
+Delirium--E319--en
+Fatal--E319,E1520--en
+Estrogen effects--E320--en
+Diabetes--E375--en
+Gastritis--E310,E375--en
+Liver--E375,E510--en
+Eyechroand--E375--en
+Gout--E375,E626,E627,E629,E631,E633--en
+Uric acid--E375--en
+Stomacache--E375--en
+Ulcer--E407,E508--en
+Diarrhea--E421,E622,E924,E235--en
+Kidney tumor--E110--en
+Kidney stone--E170,E967--en
+People with kidney illnes--E261--en
+Kidney failure--E421--en
+Kidney functions--E510--en
+Thirst--E422--en
+High blood sugar--E422--en
+Flatus--E440(a),E461--en
+Bowel illness--E440(a)--en
+Mucosa--E503--en
+Water balance--E514--en
+Stomach cancer--E553(b)--en
+Placenta problems--E554--en
+Alzheimer--E554--en
+Abdominal cramping--E622--en
+Absorption of vitamin--E905--en
+Bowel cancer--E905--en
+Ache--E924--en
+Destroy foods--E925,E926--en
+Testis and embryo--E952--en
+Mustila--E965--en
+Urethra effects--E967--en
+Psychological unrest--E967--en
+Nervous system depression--E1520--en
+Heart attacks--E1520--en
+
+
+
+
+
+
+
